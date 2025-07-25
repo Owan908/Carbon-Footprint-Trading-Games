@@ -96,3 +96,5 @@ See the [LICENSE](./LICENSE) file for more details.
 
 > Made with ❤️ in Solidity
 > Contract Address: 0x38C43e549F53b25B6253ae7DddCeEF5B0b84e95e
+> <img width="1286" height="329" alt="image" src="https://github.com/user-attachments/assets/c7d5c6ed-d142-4283-9984-82d532a721df" />
+
