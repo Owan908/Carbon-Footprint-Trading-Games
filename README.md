@@ -95,3 +95,4 @@ See the [LICENSE](./LICENSE) file for more details.
 ---
 
 > Made with ❤️ in Solidity
+> Contract Address: 0x38C43e549F53b25B6253ae7DddCeEF5B0b84e95e
